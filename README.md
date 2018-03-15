@@ -6,3 +6,8 @@
 5-	each file played will be logged in /home/pi/playlogs.txt
 6-	setup script added
 
+Mp4 files are pushed from server to all players using Pisignage https://github.com/colloqi/pisignage-server
+Playlist is used from pisignage-server
+
+It also uses edited version of omxplayer-sync - https://github.com/hitesh83/omxplayer-sync
+
